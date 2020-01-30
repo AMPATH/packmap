@@ -1,6 +1,6 @@
 {
   "name": "@ampath-kenya/packmap",
-  "version": "1.2.0-beta.2",
+  "version": "1.2.0-beta.3",
   "description": "Turn a package.json into a browser-ready import map",
   "main": "lib/packmap.js",
   "bin": "bin/packmap-cli.js",
